@@ -37,8 +37,8 @@ Este projeto é uma API CRUD para o gerenciamento de livros em uma biblioteca, d
 
 ### 1. Clone o Repositório
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd <NOME_DO_REPOSITORIO>
+git clone https://github.com/pp-gomes/Gerenciamento-de-Livros
+cd Gerenciamento-de-Livro
 ```
 
 ### 2. Instale as Dependências
